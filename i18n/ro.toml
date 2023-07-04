@@ -1,0 +1,72 @@
+[read_more]
+other = "Mai mult"
+
+#[copyright]
+#other = "Copyright"
+
+#[all_rights]
+#other = "All Rights Reserved"
+
+[share_on]
+other = "Share pe"
+
+[featured_posts]
+other = "Featured Posts"
+
+[recent_posts]
+other = "Postări recente"
+
+[404_title]
+other = "Pierdut"
+
+[could_not_find]
+other = "Nu a fost găsită pagina căutată"
+
+[go_back]
+other = "Înapoi"
+
+[translations]
+other = "Traduceri"
+
+[categories]
+other = "Categorii"
+
+[tags]
+other = "Etichete"
+
+[series]
+other = "Serii"
+
+[all_categories]
+other = "Toate Categoriile"
+
+[all_tags]
+other = "Toate Etichetele"
+
+[all_series]
+other = "Toate Seriile"
+
+[overview]
+other = "Ansamblu"
+
+[reading_time]
+other = "Timp de citire aprox. {{ .ReadingTime }} min"
+
+[series_posts]
+other = "Postări din această serie"
+
+# search
+[quick_links]
+  other = "Rezultate"
+[no_matches]
+  other = "Nu au fost găsite rezultate"
+[search_field_placeholder]
+  other = "Caută in Knowledge Base"
+[blog_search_field_placeholder]
+  other = "Căutare..."
+[search_results_label]
+  other = "Rezultatele Căutării"
+[short_search_query]
+  other = "Termen de căutare prea scurt."
+[type_to_search]
+  other = "Scrie pentru a căuta"
