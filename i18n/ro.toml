@@ -8,7 +8,7 @@ other = "Mai mult"
 #other = "All Rights Reserved"
 
 [share_on]
-other = "Share pe"
+other = "Distribuie pe"
 
 [featured_posts]
 other = "Featured Posts"
@@ -54,6 +54,15 @@ other = "Timp de citire aprox. {{ .ReadingTime }} min"
 
 [series_posts]
 other = "Postări din această serie"
+
+[Byte-symbol]
+other = "B"
+
+[Kilobyte-symbol]
+other = "KB"
+
+[Megabyte-symbol]
+other = "MB"
 
 # search
 [quick_links]

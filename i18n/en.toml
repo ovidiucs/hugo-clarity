@@ -55,6 +55,15 @@ other = "{{ .ReadingTime }} min read"
 [series_posts]
 other = "Posts in this series"
 
+[Byte-symbol]
+other = "B"
+
+[Kilobyte-symbol]
+other = "KB"
+
+[Megabyte-symbol]
+other = "MB"
+
 # search
 [quick_links]
   other = "Results"
