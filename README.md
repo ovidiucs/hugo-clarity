@@ -295,6 +295,7 @@ These options can be set from a page [frontmatter](https://gohugo.io/content-man
 | sidebar              | boolean            | N/A              |
 | singleColumn         | boolean            | N/A              |
 | showRelatedInArticle | boolean            | N/A              |
+| noindex              | boolean            | N/A              |
 
 ### Modify Menus
 
